@@ -9,12 +9,12 @@ TO8 Tracker fait revivre les musiques de l'Amiga sur le **Motorola 6809E à 1 MH
 Cliquez sur une miniature pour regarder la vidéo correspondante sur YouTube.
 
 | Hero Quest | SuperCars 2 |
-| --- | --- |
-| <a href="https://youtu.be/0ES_-IJTEjo"></a> | <a href="https://youtu.be/Hrf9h6qHnBw"></a> |
+| :---: | :---: |
+| <a href="https://youtu.be/0ES_-IJTEjo"><img src="images/hero-quest.jpg" alt="Hero Quest sur TO8 Tracker" width="320"></a> | <a href="https://youtu.be/Hrf9h6qHnBw"><img src="images/supercars-2.jpg" alt="SuperCars 2 sur TO8 Tracker" width="320"></a> |
 | **Lotus 2** | **Démo Enigma** |
-| <a href="https://youtu.be/qMdo7bRqxaQ"></a> | <a href="https://youtu.be/ScSxWaBqgYs"></a> |
+| <a href="https://youtu.be/qMdo7bRqxaQ"><img src="images/lotus-2.jpg" alt="Lotus 2 sur TO8 Tracker" width="320"></a> | <a href="https://youtu.be/ScSxWaBqgYs"><img src="images/enigma.jpg" alt="Démo Enigma sur TO8 Tracker" width="320"></a> |
 | **Cannon Fodder** | **Red Sector** |
-| <a href="https://youtu.be/MHNWjYhJxBw"></a> | <a href="https://youtu.be/teMMCTpapRQ"></a> |
+| <a href="https://youtu.be/MHNWjYhJxBw"><img src="images/cannon-fodder.jpg" alt="Cannon Fodder sur TO8 Tracker" width="320"></a> | <a href="https://youtu.be/teMMCTpapRQ"><img src="images/red-sector.jpg" alt="Red Sector sur TO8 Tracker" width="320"></a> |
 
 Ce dépôt distribue **des versions prêtes à l'emploi**. Il ne contient ni les sources en assembleur, ni les outils de compilation.
 
