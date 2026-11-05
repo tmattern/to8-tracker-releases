@@ -10,11 +10,11 @@ Cliquez sur une miniature pour regarder la vidéo correspondante sur YouTube.
 
 | Hero Quest | SuperCars 2 |
 | --- | --- |
-| [](https://youtu.be/0ES_-IJTEjo) | [](https://youtu.be/Hrf9h6qHnBw) |
+| <a href="https://youtu.be/0ES_-IJTEjo"></a> | <a href="https://youtu.be/Hrf9h6qHnBw"></a> |
 | **Lotus 2** | **Démo Enigma** |
-| [](https://youtu.be/qMdo7bRqxaQ) | [](https://youtu.be/ScSxWaBqgYs) |
+| <a href="https://youtu.be/qMdo7bRqxaQ"></a> | <a href="https://youtu.be/ScSxWaBqgYs"></a> |
 | **Cannon Fodder** | **Red Sector** |
-| [](https://youtu.be/MHNWjYhJxBw) | [](https://youtu.be/teMMCTpapRQ) |
+| <a href="https://youtu.be/MHNWjYhJxBw"></a> | <a href="https://youtu.be/teMMCTpapRQ"></a> |
 
 Ce dépôt distribue **des versions prêtes à l'emploi**. Il ne contient ni les sources en assembleur, ni les outils de compilation.
 
