@@ -18,8 +18,12 @@ Ce premier pari a progressivement donné naissance à un véritable lecteur ProT
 
 Cliquez sur une miniature pour regarder la vidéo correspondante sur YouTube.
 
-| Hero Quest | SuperCars 2 |
+| **Tom's Diner (remix)** | **Enjoy The Silence** |
 | :---: | :---: |
+| <a href="https://youtu.be/RaAplaq9ml4"><img src="https://img.youtube.com/vi/RaAplaq9ml4/hqdefault.jpg" alt="Tom's Diner remix mod sur TO8 Tracker 2.1" width="320"></a> | <a href="https://youtu.be/SCuMSbrE23c"><img src="https://img.youtube.com/vi/SCuMSbrE23c/hqdefault.jpg" alt="Enjoy The Silence sur TO8 Tracker 2.1" width="320"></a> |
+| **Agony** | **Assassin** |
+| <a href="https://youtu.be/Ze93Ctx788c"><img src="https://img.youtube.com/vi/Ze93Ctx788c/hqdefault.jpg" alt="Agony sur TO8 Tracker 2.1" width="320"></a> | <a href="https://youtu.be/dC_W1xb_wkQ"><img src="https://img.youtube.com/vi/dC_W1xb_wkQ/hqdefault.jpg" alt="Assassin sur TO8 Tracker 2.1" width="320"></a> |
+| **Hero Quest** | **SuperCars 2** |
 | <a href="https://youtu.be/0ES_-IJTEjo"><img src="images/hero-quest.jpg" alt="Hero Quest sur TO8 Tracker" width="320"></a> | <a href="https://youtu.be/Hrf9h6qHnBw"><img src="images/supercars-2.jpg" alt="SuperCars 2 sur TO8 Tracker" width="320"></a> |
 | **Lotus 2** | **Démo Enigma** |
 | <a href="https://youtu.be/qMdo7bRqxaQ"><img src="images/lotus-2.jpg" alt="Lotus 2 sur TO8 Tracker" width="320"></a> | <a href="https://youtu.be/ScSxWaBqgYs"><img src="images/enigma.jpg" alt="Démo Enigma sur TO8 Tracker" width="320"></a> |
